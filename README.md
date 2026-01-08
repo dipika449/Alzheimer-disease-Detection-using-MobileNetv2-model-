@@ -1,0 +1,1 @@
+# Alzheimer-disease-Detection-using-MobileNetv2-model-
